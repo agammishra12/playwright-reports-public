@@ -1,0 +1,1 @@
+[{"uid":"44dc8d7fe4010e6f","name":"smoke","time":{"start":1752756259886,"stop":1752756262834,"duration":2948},"status":"passed","severity":"normal"},{"uid":"f3585d962901ad95","name":"should add a new provider group","time":{"start":1752756226274,"stop":1752756257289,"duration":31015},"status":"broken","severity":"normal"}]
