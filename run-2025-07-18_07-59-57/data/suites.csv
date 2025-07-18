@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 18 07:58:43 UTC 2025","Fri Jul 18 07:58:43 UTC 2025","421","chromium","smoke.spec.js","","","","smoke",""
+"passed","Fri Jul 18 07:58:39 UTC 2025","Fri Jul 18 07:58:43 UTC 2025","3244","chromium","demo1.spec.js","","","","should add a new provider group",""
+"passed","Fri Jul 18 07:58:33 UTC 2025","Fri Jul 18 07:58:37 UTC 2025","3734","chromium","demo.spec.js","","","","should add a new provider group",""
